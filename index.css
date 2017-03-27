@@ -1,0 +1,46 @@
+body {
+    background-color: #cccccc;
+}
+#container {
+    padding: 50px;
+}
+
+svg {
+    border: 1px dashed gray;
+    margin: auto;
+    display: block;
+    background: white;
+}
+
+svg path {
+    stroke: gray;
+    stroke-width: 3px;
+    fill: transparent;
+}
+.pole path {
+    fill: wheat;
+    stroke: transparent;
+}
+g path {
+    fill: #DF3D82;
+}
+g text {
+    stroke: white;
+    fill: white;
+}
+g path {
+    stroke: yellow;
+    stroke-opacity: 0;
+}
+g path:hover {
+    stroke-opacity: 1;
+}
+#mybiotools path {
+    fill: #7E8F7C;
+}
+#mywebapps path {
+    fill: #558C89;
+}
+#biologymeetweb path {
+    fill: #67BCDB;
+}
