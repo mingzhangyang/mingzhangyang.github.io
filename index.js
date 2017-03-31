@@ -5,7 +5,7 @@
 
 function getReady() {
   document.getElementById('mywebapps').addEventListener('click', function () {
-    window.open('https://mingzhangyang.github.io/mywebapp/', '_blank');
+    window.open('https://mingzhangyang.github.io/myBench/', '_blank');
   });
 
   document.getElementById('mybiotools').addEventListener('click', function () {
