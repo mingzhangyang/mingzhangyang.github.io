@@ -15,5 +15,9 @@ function getReady() {
   document.getElementById('biologymeetweb').addEventListener('click', function () {
     window.open('https://mingzhangyang.github.io/biologymeetweb/', '_blank');
   });
+
+  document.getElementById('commonUse').addEventListener('click', function () {
+    window.open('https://github.com/mingzhangyang/commonUse', '_blank');
+  });
 }
 
