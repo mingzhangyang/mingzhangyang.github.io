@@ -44,3 +44,5 @@ g path:hover {
 #biologymeetweb path {
     fill: #67BCDB;
 }
+g:hover {
+    cursor: pointer;
